@@ -1,0 +1,14 @@
+{
+    "name": "com.Raiden.RaiTools.Runtime",
+    "rootNamespace": "RaiTools.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
