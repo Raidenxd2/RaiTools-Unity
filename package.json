@@ -1,0 +1,13 @@
+{
+	"name": "com.raiden.raitools-unity",
+	"version": "1.0.0-alpha1",
+	"description": "Some tools.",
+	"displayName": "RaiTools",
+	"unity": "2022.3",
+	"license": "MIT",
+	"author": {
+		"name": "Raiden",
+		"email": "",
+		"url": "https://raidenxd2.github.io"
+	}
+}
